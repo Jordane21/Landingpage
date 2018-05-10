@@ -13,6 +13,14 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap'
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
+gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'therubyracer'
+gem 'less-rails-bootstrap'
+gem "font-awesome-rails"
+gem 'jquery-easing-rails'
+
 
 group :development, :test do
   gem 'sqlite3'
